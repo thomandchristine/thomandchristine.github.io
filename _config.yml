@@ -1,0 +1,58 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+  
+# Site settings
+title: "We're Thom & Christine"
+description: > # this means to ignore newlines until "email:"
+    and we're looking to grow our loving family.
+
+email: thom@thomcrowe.com
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Thom & Christine'
+author: 'Thom & Christine'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	instagram
+    url:	https://instagram.com/christinesharpcrowe
+    desc: Christine's Instagram
+
+  - icon: twitter
+    url:  https://twitter.com/christinecrowe
+    desc: Christine's Twitter
+    
+  - icon: instagram
+    url:  https://instagram.com/thomcrowe
+    desc: Thom's Instagram
+
+
+#    share_url:
+#    share_title:
+#    share_link:
+
+  - icon: twitter
+    url:  https://twitter.com/thomcrowe
+    desc: Thom's Twitter
+#    share_url:
+#    share_title:
+#    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
