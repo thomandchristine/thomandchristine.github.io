@@ -4,6 +4,9 @@ title: About Us
 permalink: /about/
 ---
 
+
+
+
 ##About Christine
 ![](/assets/images/christine.jpg#align-right) 
 
